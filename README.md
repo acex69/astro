@@ -16,12 +16,12 @@
  [![Android 13](https://img.shields.io/badge/Android%2012-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-13/)
  
  ## My Devices
- Poco F4 
- Poco M2
- Realme C1
- OnePlus 8 
- Redmi 3s 
- Lenovo K4 Note 
- Oneplus 9RT
+ # Poco F4 
+ # Poco M2
+ # Realme C1
+ # OnePlus 8 
+ # Redmi 3s 
+ # Lenovo K4 Note 
+ # Oneplus 9RT
  
 # That's all Thanks for reading 
